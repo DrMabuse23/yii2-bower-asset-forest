@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
  */
 class PackageAsset extends AssetBundle {
 
-    public $sourcePath = '@vendor/drmabuse/yii2-bower-asset-wood/web';
+    public $sourcePath = '@vendor/drmabuse/yii2-bower-asset-wood/web/bower_components';
     public $depends = [];
     public $forceCopy = true;
 } 
