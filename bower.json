@@ -1,0 +1,9 @@
+{
+  "name": "yii2-bower-asset-wood",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "handlebars": "~2.0.0",
+    "dropzone": "~3.10.2"
+  }
+}

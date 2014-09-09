@@ -1,0 +1,26 @@
+{
+    "name": "drmabuse/yii2-bower-asset-wood",
+    "description": "a bunch of bower packages as assets",
+    "license": "BSD-3-Clause",
+    "type": "yii2-extension",
+    "version": "0.0.1",
+    "keywords": [
+        "yii2",
+        "asset wood"
+    ],
+    "authors": [
+        {
+            "name": "Pascal Brewing",
+            "email": "drmabuse@posteo.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "drmabuse\\assetwood\\": ""
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "*",
+        "beelab/bowerphp": "0.1.*@alpha"
+    }
+}
