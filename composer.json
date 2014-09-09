@@ -22,5 +22,13 @@
     "require": {
         "yiisoft/yii2": "*",
         "beelab/bowerphp": "0.1.*@alpha"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "./../../beelab/bowerphp/bin/bowerphp install"
+        ],
+        "post-update-cmd": [
+            "./../../beelab/bowerphp/bin/bowerphp install"
+        ]
     }
 }
