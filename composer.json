@@ -20,7 +20,6 @@
         }
     },
     "require": {
-        "yiisoft/yii2": "*",
         "beelab/bowerphp": "0.1.*@alpha"
     },
     "scripts": {

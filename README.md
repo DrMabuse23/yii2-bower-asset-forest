@@ -1,8 +1,9 @@
 yii2-bower-asset-forest
 =====================
 
-a bunch of bower packages
-
+Hi there,
+this package gives you a bunch of bower_components to AssetBundle Yii.
+if you missed a package something plz let me know.Create a new Issue with your bower package what you will need.
 
 Command
 ===
@@ -13,3 +14,11 @@ Command
 ```
 
 check bower.io for more commands
+
+
+Implemented
+===
+
+- underscore.js
+- dropzone.js // is broken at the moment waiting for issue answer
+- handlebars.js
