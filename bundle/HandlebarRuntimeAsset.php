@@ -1,13 +1,13 @@
 <?php
 
-namespace drmabuse\assetwood\bundle;
+namespace drmabuse\assetforest\bundle;
 
-use drmabuse\assetwood\PackageAsset;
+use drmabuse\assetforest\PackageAsset;
 
 
 /**
  * Class HandlebarRuntimeAsset
- * @package drmabuse\assetwood\bundle
+ * @package drmabuse\assetforest\bundle
  * @author Pascal Brewing
  */
 class HandlebarRuntimeAsset extends PackageAsset{

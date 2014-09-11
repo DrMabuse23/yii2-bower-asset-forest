@@ -1,4 +1,4 @@
-yii2-bower-asset-wood
+yii2-bower-asset-forest
 =====================
 
 a bunch of bower packages

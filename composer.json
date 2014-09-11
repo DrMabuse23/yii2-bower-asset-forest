@@ -1,5 +1,5 @@
 {
-    "name": "drmabuse/yii2-bower-asset-wood",
+    "name": "drmabuse/yii2-bower-asset-forest",
     "description": "a bunch of bower packages as assets",
     "license": "BSD-3-Clause",
     "type": "yii2-extension",
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "drmabuse\\assetwood\\": ""
+            "drmabuse\\assetforest\\": ""
         }
     },
     "require": {
