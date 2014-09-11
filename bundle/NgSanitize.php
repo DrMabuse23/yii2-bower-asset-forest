@@ -12,17 +12,17 @@ use drmabuse\assetforest\PackageAsset;
 
 
 /**
- * Class NgAnimate
+ * Class NgSanitize
  * @package drmabuse\assetforest\bundle
  * @author Pascal Brewing <drmabuse@posteo.de>
  */
-class NgAnimate extends PackageAsset{
+class NgSanitize extends PackageAsset{
 
     /**
      * @var array
      */
     public $js = [
-        'angular-animate/angular-animate.js'
+        'angular-sanitize/angular-sanitize.js'
     ];
 
     /**

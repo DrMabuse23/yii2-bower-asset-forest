@@ -12,17 +12,17 @@ use drmabuse\assetforest\PackageAsset;
 
 
 /**
- * Class NgAnimate
+ * Class NgCookies
  * @package drmabuse\assetforest\bundle
  * @author Pascal Brewing <drmabuse@posteo.de>
  */
-class NgAnimate extends PackageAsset{
+class NgCookies extends PackageAsset{
 
     /**
      * @var array
      */
     public $js = [
-        'angular-animate/angular-animate.js'
+        'angular-cookies/angular-cookies.js'
     ];
 
     /**

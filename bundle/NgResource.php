@@ -12,17 +12,17 @@ use drmabuse\assetforest\PackageAsset;
 
 
 /**
- * Class NgAnimate
+ * Class NgResource
  * @package drmabuse\assetforest\bundle
  * @author Pascal Brewing <drmabuse@posteo.de>
  */
-class NgAnimate extends PackageAsset{
+class NgResource extends PackageAsset{
 
     /**
      * @var array
      */
     public $js = [
-        'angular-animate/angular-animate.js'
+        'angular-resource/angular-resource.js'
     ];
 
     /**
